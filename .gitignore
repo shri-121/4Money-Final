@@ -1,0 +1,10 @@
+node_modules/
+build/
+.env
+__pycache__/
+*.pyc
+.DS_Store
+*.egg-info/
+dist/
+.venv/
+venv/
